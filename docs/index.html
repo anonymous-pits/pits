@@ -6,5 +6,947 @@
         <title>Audio Samples from "PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS"</title>
     </head>
     <body style="font-family: Helvetica">
+        <h2>Audio Samples from "PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS"</h2>
+        <div><p><b>Github: </b> <a href="https://github.com/anonymous-pits/pits">https://github.com/anonymous-pits/pits</a></p></div>
+        <div><p><b>Abstract: </b>Previous pitch-controllable text-to-speech (TTS) models rely on directly modeling fundamental frequency, leading to low variance in synthesized speech. To address this issue, we propose PITS, an end-to-end pitch-controllable TTS model that utilizes variational inference to model pitch. Based on VITS, PITS incorporates the Yingram encoder, the Yingram decoder, and adversarial training of pitch-shifted synthesis to achieve pitch-controllability. Experiments demonstrate that PITS generates high-quality speech that is indistinguishable from ground truth speech and has high pitch-controllability without quality degradation. Code and audio samples will be available at https://github.com/anonymous-pits/pits.</p></div>
+    <h3>Normal Speech Synthesis</h3>
+    <div>This is a result of normal speech synthesis without pitch-shifting. All samples are not cherry-picked and applied to measure MOS.</div>
+	<br>
+    <table>
+        <colgroup>
+            <col width="25%">
+            <col width="25%">
+            <col width="25%">
+            <col width="25%">
+        </colgroup>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+            <td colspan="4">p225_363: There is The Beautiful Game to write.</td>
+            </tr><tr><td colspan="4">{DH EH R} {IH Z} {DH AH} {B Y UW T AH F AH L} {G EY M} {T UW} {R AY T}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p225/p225_363_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p232_413: It was that bad, that low.</td>
+            </tr><tr><td colspan="4">{IH T} {W AA Z} {DH AE T} {B AE D}, {DH AE T} {L OW}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p232/p232_413_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p245_358: He's very explosive.</td>
+            </tr><tr><td colspan="4">{HH IY Z} {V EH R IY} {IH K S P L OW S IH V}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p245/p245_358_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p250_496: Subsidy income will not be affected.</td>
+            </tr><tr><td colspan="4">{S AH B S IH D IY} {IH N K AH M} {W IH L} {N AA T} {B IY} {AH F EH K T IH D}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p250/p250_496_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p267_420: I've got my own ideas.</td>
+            </tr><tr><td colspan="4">{AY V} {G AA T} {M AY} {OW N} {AY D IY AH Z}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p267/p267_420_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p277_461: I am greatly relieved that the trust has reached its target.</td>
+            </tr><tr><td colspan="4">{AY} {AE M} {G R EY T L IY} {R IH L IY V D} {DH AE T} {DH AH} {T R AH S T} {HH AE Z} {R IY CH T} {IH T S} {T AA R G AH T}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p277/p277_461_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p312_417: I have to say, for me, the game was not.</td>
+            </tr><tr><td colspan="4">{AY} {HH AE V} {T UW} {S EY}, {F AO R} {M IY}, {DH AH} {G EY M} {W AA Z} {N AA T}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p312/p312_417_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p345_398: This was a unique election.</td>
+            </tr><tr><td colspan="4">{DH IH S} {W AA Z} {AH} {Y UW N IY K} {IH L EH K SH AH N}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p345/p345_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p362_410: Figures are not relevant to the strategy.</td>
+            </tr><tr><td colspan="4">{F IH G Y ER Z} {AA R} {N AA T} {R EH L AH V AH N T} {T UW} {DH AH} {S T R AE T AH JH IY}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">GT</div></td> <td><div align="center">VITS</div></td> <td><div align="center">FS2</div></td> <td><div align="center"> </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/gt/gt/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/VITS/VITS/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/FS2/FS2/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS (A+D+Q)</div></td> <td><div align="center"><b>PITS (A+D)</b></div></td> <td><div align="center">PITS (A+Q)</div></td> <td><div align="center">PITS (D+Q)</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p362/p362_410_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+
+        </tbody>
+    </table>
+    <h3>Pitch-Shifted Speech Synthesis</h3>
+    <div>This is a result of speech synthesis with pitch-shifting. All samples are not cherry-picked and applied to measure MOS.</div>
+	<br>
+    <table>
+        <colgroup>
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+        </colgroup>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+            <td colspan="4">p227_400: However, there is an issue, isn't there?</td>
+            </tr><tr><td colspan="4">{HH AW EH V ER}, {DH EH R} {IH Z} {AH N} {IH SH UW}, {IH Z AH N T} {DH EH R}?</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p227/p227_400_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p229_390: There were no casualties.</td>
+            </tr><tr><td colspan="4">{DH EH R} {W ER} {N OW} {K AE ZH AH W AH L T IY Z}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p229/p229_390_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p240_380: Safety was also an issue.</td>
+            </tr><tr><td colspan="4">{S EY F T IY} {W AA Z} {AO L S OW} {AH N} {IH SH UW}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p240/p240_380_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p243_398: People have a wish to charge twice.</td>
+            </tr><tr><td colspan="4">{P IY P AH L} {HH AE V} {AH} {W IH SH} {T UW} {CH AA R JH} {T W AY S}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p243/p243_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p333_424: Appointed general secretary last September.</td>
+            </tr><tr><td colspan="4">{AH P OY N T AH D} {JH EH N ER AH L} {S EH K R AH T EH R IY} {L AE S T} {S EH P T EH M B ER}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p333/p333_424_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p343_399: The role was a knockout, but really difficult.</td>
+            </tr><tr><td colspan="4">{DH AH} {R OW L} {W AA Z} {AH} {N AA K AW T}, {B AH T} {R IH L IY} {D IH F AH K AH L T}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p343/p343_399_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">p376_422: That can happen so easily.</td>
+            </tr><tr><td colspan="4">{DH AE T} {K AE N} {HH AE P AH N} {S OW} {IY Z AH L IY}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/p376/p376_422_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="4">s5_398: That will be a decision for BBC Scotland.</td>
+            </tr><tr><td colspan="4">{DH AE T} {W IH L} {B IY} {AH} {D IH S IH ZH AH N} {F AO R} {B}{B IY} {B IY} {S IY} {S K AA T L AH N D}.</td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) -8</div></td><td><div align="center">PITS(A+D+Q) -6</div></td><td><div align="center">PITS(A+D+Q) -4</div></td><td><div align="center">PITS(A+D+Q) -2</div></td><td><div align="center">PITS(A+D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)-2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)0/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+D+Q) 2</div></td><td><div align="center">PITS(A+D+Q) 4</div></td><td><div align="center">PITS(A+D+Q) 6</div></td><td><div align="center">PITS(A+D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D+Q)/PITS(A+D+Q)8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> -8</div></td><td><div align="center"><b>PITS(A+D)</b> -6</div></td><td><div align="center"><b>PITS(A+D)</b> -4</div></td><td><div align="center"><b>PITS(A+D)</b> -2</div></td><td><div align="center"><b>PITS(A+D)</b> 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)-2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)0/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center"><b>PITS(A+D)</b> 2</div></td><td><div align="center"><b>PITS(A+D)</b> 4</div></td><td><div align="center"><b>PITS(A+D)</b> 6</div></td><td><div align="center"><b>PITS(A+D)</b> 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+D)/PITS(A+D)8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(A+Q) -8</div></td><td><div align="center">PITS(A+Q) -6</div></td><td><div align="center">PITS(A+Q) -4</div></td><td><div align="center">PITS(A+Q) -2</div></td><td><div align="center">PITS(A+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)-2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)0/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(A+Q) 2</div></td><td><div align="center">PITS(A+Q) 4</div></td><td><div align="center">PITS(A+Q) 6</div></td><td><div align="center">PITS(A+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(A+Q)/PITS(A+Q)8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            <tr>
+            <td><div align="center">PITS(D+Q) -8</div></td><td><div align="center">PITS(D+Q) -6</div></td><td><div align="center">PITS(D+Q) -4</div></td><td><div align="center">PITS(D+Q) -2</div></td><td><div align="center">PITS(D+Q) 0</div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)-2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)0/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr>
+            <td><div align="center">PITS(D+Q) 2</div></td><td><div align="center">PITS(D+Q) 4</div></td><td><div align="center">PITS(D+Q) 6</div></td><td><div align="center">PITS(D+Q) 8</div></td><td><div align="center">   </div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)2/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)4/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)6/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/PITS(D+Q)/PITS(D+Q)8/s5/s5_398_mic1.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+        </tbody>
+    </table>
+
+    <h3>Variacne of Model</h3>
+    <div>This is a result of speech synthesis with identical text. Check variacne of outputs</div>
+	<br>
+    <table>
+        <colgroup>
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+            <col width="20%">
+        </colgroup>
+        <thead>
+            <tr>
+            <td colspan="5">How much variation there?</td>
+            </tr><tr><td colspan="5">{HH AW} {M AH CH} {V EH R IY EY SH AH N} {DH EH R}?</td>
+            </tr>
+        </thead>
+            <tr><td><br></td></tr>
+        <tbody>
+            <tr>
+            <td colspan="5">p277</td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p277_0.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p277_1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p277_2.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p277_3.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p277_4.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="5">p263</td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p263_0.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p263_1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p263_2.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p263_3.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p263_4.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="5">p295</td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p295_0.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p295_1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p295_2.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p295_3.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p295_4.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="5">p304</td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p304_0.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p304_1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p304_2.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p304_3.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_p304_4.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+            <tr>
+            <td colspan="5">s5</td>
+            </tr>
+            <tr>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_s5_0.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_s5_1.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_s5_2.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_s5_3.wav" type="audio/wav"></audio></div></td>
+                <td><div align="center"><audio controls="" style="width: 250px;"><source src="./pits_samples/howmuchvar/howmuchvar_s5_4.wav" type="audio/wav"></audio></div></td>
+            </tr>
+            <tr><td><br></td></tr>
+		</tbody>
     </body>
 </html>
