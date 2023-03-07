@@ -47,8 +47,9 @@ class GradioApp:
         tone = torch.LongTensor(tone)
         return text_norm, tone, phones
     
-    @torch.no_grad()
     def inference(self, text, speaker_id_val, seed, scope_shift, duration):
+        seed = int(seed)
+        scope_shift = int(scope_shift)
         torch.manual_seed(seed)
         text_norm, tone, phones = self.get_phoneme(text)
         x_tst = text_norm.to(self.device).unsqueeze(0)
@@ -72,7 +73,7 @@ class GradioApp:
 
     def _gradio_interface(self):
         title = "PITS Demo"
-        inputs = [
+        self.inputs = [
             gr.Textbox(label="Text (150 words limitation)",
                        value="This is demo page.",
                        elem_id="tts-input"),
@@ -80,12 +81,12 @@ class GradioApp:
                         value="p225",
                         label="Speaker Identity",
                         type="index"),
-            gr.Slider(0, 65536, step=1, label="random seed"),
+            gr.Slider(0, 65536, value=0, step=1, label="random seed"),
             gr.Slider(-15, 15, value=0, step=1, label="scope-shift"),
             gr.Slider(0.5, 2., value=1., step=0.1,
                       label="duration multiplier"),
         ]
-        outputs = [
+        self.outputs = [
             gr.Textbox(label="Phonemes"),
             gr.Audio(type="numpy", label="Output audio")
         ]
@@ -94,16 +95,17 @@ class GradioApp:
         examples = [["This is a demo page of the PITS."],["I love hugging face."]]
         return gr.Interface(
             fn=self.inference,
-            inputs=inputs,
-            outputs=outputs,
+            inputs=self.inputs,
+            outputs=self.outputs,
             title=title,
             description=description,
             article=article,
+            cache_examples=False,
             examples=examples,
         )
 
     def launch(self):
-        return self.interface.launch(share=True)
+        return self.interface.launch(share=False)
 
 
 def parsearg():
