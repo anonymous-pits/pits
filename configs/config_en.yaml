@@ -1,0 +1,68 @@
+train:
+  log_interval: 200   # step unit
+  eval_interval: 400  # step unit
+  save_interval: 50  # epoch unit: 50 for baseline / 500 for fine-tuning
+  seed: 1234
+  epochs: 7000
+  learning_rate: 2e-4 
+  betas: [0.8, 0.99]
+  eps: 1e-9
+  batch_size: 48
+  fp16_run: True  #False
+  lr_decay: 0.999875
+  segment_size: 8192
+  c_mel: 45
+  c_kl: 1.0
+  c_vq: 1.
+  c_commit: 0.2
+  c_yin: 45.
+  log_path: "/pits/logs"
+  n_sample: 3
+  alpha: 200
+
+data:
+  data_path: "/DATA/audio/VCTK-0.92"
+  training_files: "filelists/vctk_train_g2p.txt"
+  validation_files: "filelists/vctk_val_g2p.txt"
+  languages: "en_US" 
+  text_cleaners: ["english_cleaners"]
+  sampling_rate: 22050
+  filter_length: 1024
+  hop_length: 256
+  win_length: 1024
+  n_mel_channels: 80
+  mel_fmin: 0.0
+  mel_fmax: null
+  add_blank: True
+  speakers: ["p225", "p226", "p227", "p228", "p229", "p230", "p231", "p232", "p233", "p234", "p236", "p237", "p238", "p239", "p240", "p241", "p243", "p244", "p245", "p246", "p247", "p248", "p249", "p250", "p251", "p252", "p253", "p254", "p255", "p256", "p257", "p258", "p259", "p260", "p261", "p262", "p263", "p264", "p265", "p266", "p267", "p268", "p269", "p270", "p271", "p272", "p273", "p274", "p275", "p276", "p277", "p278", "p279", "p281", "p282", "p283", "p284", "p285", "p286", "p287", "p288", "p292", "p293", "p294", "p295", "p297", "p298", "p299", "p300", "p301", "p302", "p303", "p304", "p305", "p306", "p307", "p308", "p310", "p311", "p312", "p313", "p314", "p316", "p317", "p318", "p323", "p326", "p329", "p330", "p333", "p334", "p335", "p336", "p339", "p340", "p341", "p343", "p345", "p347", "p351", "p360", "p361", "p362", "p363", "p364", "p374", "p376", "s5"]
+  persistent_workers: True
+  midi_start: -5
+  midi_end: 75
+  midis: 80
+  ying_window: 2048
+  ying_hop: 256
+  tau_max: 2048
+  octave_range: 24
+  
+model:
+  inter_channels: 192
+  hidden_channels: 192
+  filter_channels: 768
+  n_heads: 2
+  n_layers: 6
+  kernel_size: 3
+  p_dropout: 0.1
+  resblock: "1"
+  resblock_kernel_sizes: [3,7,11]
+  resblock_dilation_sizes: [[1,3,5], [1,3,5], [1,3,5]]
+  upsample_rates: [8,8,2,2]
+  upsample_initial_channel: 512
+  upsample_kernel_sizes: [16,16,4,4]
+  n_layers_q: 3
+  use_spectral_norm: False
+  gin_channels: 256
+  codebook_size: 320
+  yin_channels: 80
+  yin_start: 15 # scope start bin in nansy = 1.5/8 
+  yin_scope: 50 # scope ratio in nansy = 5/8 
+  yin_shift_range: 15 # same as default start index of yingram

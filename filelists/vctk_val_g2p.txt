@@ -1,0 +1,324 @@
+wav22_silence_trimmed_wav/p225/p225_357_mic1.wav|{IH T} {IH Z} {AH} {S AY N} {AH V} {HH OW P}.|p225
+wav22_silence_trimmed_wav/p225/p225_358_mic1.wav|{DH AH} {K AH M IH T M AH N T} {W AA Z} {N AA T} {L AO NG}, {AE N D} {IH T} {W AA Z} {W ER TH} {DH AH} {R IH S K}.|p225
+wav22_silence_trimmed_wav/p225/p225_359_mic1.wav|{B AH T} {W IY} {W EH L K AH M} {DH IH S} {D AA K Y AH M EH N T}.|p225
+wav22_silence_trimmed_wav/p226/p226_365_mic1.wav|{AY} {HH AE V} {G AA T} {AH} {W AY F} {T UW} {F IY D}.|p226
+wav22_silence_trimmed_wav/p226/p226_366_mic1.wav|{IH T S} {N AA T} {P R IH T IY}, {B AH T} {IH T S} {IH F EH K T IH V}.|p226
+wav22_silence_trimmed_wav/p226/p226_367_mic1.wav|{EH K W AH T IY} {D IH K L AY N D} {T UW} {K AA M EH N T}.|p226
+wav22_silence_trimmed_wav/p227/p227_397_mic1.wav|{DH EY} {HH AE V} {N AA T} {G AA T} {EH N IY W AH N}.|p227
+wav22_silence_trimmed_wav/p227/p227_398_mic1.wav|{AY} {K AE N} {HH AA R D L IY} {B IH L IY V} {IH T}.|p227
+wav22_silence_trimmed_wav/p227/p227_399_mic1.wav|{HH AW} {D UW} {Y UW} {T EY K} {DH EH M} {AH W EY}?|p227
+wav22_silence_trimmed_wav/p228/p228_366_mic1.wav|{B AH T} {AY} {M AE N AH JH D}.|p228
+wav22_silence_trimmed_wav/p228/p228_367_mic1.wav|{B AY} {DH AE T} {T AY M}, {HH AW EH V ER}, {IH T} {W AA Z} {AO L R EH D IY} {T UW} {L EY T}.|p228
+wav22_silence_trimmed_wav/p228/p228_368_mic1.wav|{AY} {AE M} {N AA T} {W IH L IH NG} {T UW} {S EY} {EH N IY TH IH NG} {AH B AW T} {EH N IY} {K AH P AH L}.|p228
+wav22_silence_trimmed_wav/p229/p229_387_mic1.wav|{DH AE T} {T IY M} {IH Z} {D UW} {T UW} {B IY} {AH N AW N S T} {DH IH S} {M AO R N IH NG}.|p229
+wav22_silence_trimmed_wav/p229/p229_388_mic1.wav|{IH T} {HH AE Z} {B IH N} {AH} {L AH V L IY} {F AE M AH L IY} {AH K EY ZH AH N}.|p229
+wav22_silence_trimmed_wav/p229/p229_389_mic1.wav|{DH AE T S} {DH AH} {N EY M} {AH V} {DH AH} {G EY M}, {DH OW}.|p229
+wav22_silence_trimmed_wav/p230/p230_411_mic1.wav|{T R IY T M AH N T} {IH Z} {N AA T} {AH N} {IH SH UW} {W IH DH} {DH IY Z} {P IY P AH L}.|p230
+wav22_silence_trimmed_wav/p230/p230_413_mic1.wav|{IY V IH N} {IH F} {DH EY} {K AH M} {AW T} {P L EY IH NG} {AH} {F IH Z IH K AH L} {G EY M}, {W IY} {K AE N} {K OW P}.|p230
+wav22_silence_trimmed_wav/p230/p230_414_mic1.wav|{IH T} {IH Z} {DH AH} {OW L D} {S T AO R IY}.|p230
+wav22_silence_trimmed_wav/p231/p231_471_mic1.wav|{D EH N IH S} {W AA Z} {N AA T} {S OW} {SH UH R}.|p231
+wav22_silence_trimmed_wav/p231/p231_472_mic1.wav|{HH IY} {F EH L T} {IH T} {W AA Z} {DH AH} {R AY T} {T AY M}.|p231
+wav22_silence_trimmed_wav/p231/p231_473_mic1.wav|{IH T} {W AA Z} {K L IH R} {AA N} {TH ER Z D EY}.|p231
+wav22_silence_trimmed_wav/p232/p232_410_mic1.wav|{AY} {W AA Z} {IH N} {AH} {P AH Z IH SH AH N} {T UW} {CH AE L AH N JH} {F AO R} {DH IH S} {IH V EH N T} {AE N D} {D IH D AH N T}.|p232
+wav22_silence_trimmed_wav/p232/p232_411_mic1.wav|{Y UW} {W AO N T IH D} {DH AH} {EH V AH D AH N S}.|p232
+wav22_silence_trimmed_wav/p232/p232_412_mic1.wav|{S IY N Y ER} {M AE N AH JH M AH N T} {IH N} {S K AA T L AH N D} {TH R UW} {IH T S} {W EY T} {B IH HH AY N D} {DH AH} {AO R K AH S T R AH}.|p232
+wav22_silence_trimmed_wav/p233/p233_387_mic1.wav|{IH T} {W AA Z} {AH} {B R EH TH T EY K IH NG} {M OW M AH N T}.|p233
+wav22_silence_trimmed_wav/p233/p233_388_mic1.wav|{AY} {W AA Z} {IH N} {JH EY L} {F AO R} {F AY V} {Y IH R Z}.|p233
+wav22_silence_trimmed_wav/p233/p233_389_mic1.wav|{W AH T} {HH AE P AH N D} {IH N} {DH AH} {S AH M ER}?|p233
+wav22_silence_trimmed_wav/p234/p234_356_mic1.wav|{DH AE T} {IH Z} {DH AH} {L EH S AH N} {AH V} {DH AH} {L AE S T} {TH R IY} {W IY K S}.|p234
+wav22_silence_trimmed_wav/p234/p234_357_mic1.wav|{DH AH} {S IH T IY} {W EH L K AH M D} {DH AH} {N AH M B ER Z}.|p234
+wav22_silence_trimmed_wav/p234/p234_358_mic1.wav|{S AH M TH IH NG} {IH Z} {G OW IH NG} {T UW} {HH AE V} {T UW} {G IH V}.|p234
+wav22_silence_trimmed_wav/p236/p236_498_mic1.wav|{AY} {W AA Z} {R EH D IY} {F AO R} {DH IH S}.|p236
+wav22_silence_trimmed_wav/p236/p236_499_mic1.wav|{IH N} {F AE K T}, {W IY} {W ER} {AO L} {OW V ER} {DH AH} {SH AA P}.|p236
+wav22_silence_trimmed_wav/p236/p236_500_mic1.wav|{AH} {S K AA T S M AH N} {HH AE Z} {T UW} {D IH F EH N D} {HH IH Z} {K AE S AH L}.|p236
+wav22_silence_trimmed_wav/p237/p237_346_mic1.wav|{DH AH} {AH N AW N S M EH N T} {W AA Z} {M EY D} {AE F T ER} {IH N K W AY ER IY Z} {F R AH M} {AH} {N AE SH AH N AH L} {N UW Z P EY P ER}.|p237
+wav22_silence_trimmed_wav/p237/p237_347_mic1.wav|{IH N D IY D}, {IH T} {W AA Z} {M AE JH IH K AH L}.|p237
+wav22_silence_trimmed_wav/p237/p237_348_mic1.wav|{L UH K} {AE T} {DH AH} {W IH T N AH S AH Z}.|p237
+wav22_silence_trimmed_wav/p238/p238_454_mic1.wav|{S IH M AH L ER} {M EH ZH ER Z} {AA R} {IH K S P EH K T AH D} {IH N} {IH NG G L AH N D} {AE N D} {W EY L Z}.|p238
+wav22_silence_trimmed_wav/p238/p238_455_mic1.wav|{S T EY JH K OW CH} {IH Z} {S IY K IH NG} {AH} {N UW} {F AH N AE N S} {D ER EH K T ER}.|p238
+wav22_silence_trimmed_wav/p238/p238_456_mic1.wav|{N AW} {IH T} {HH AE Z} {D AH B AH L D} {IH N} {S AY Z}.|p238
+wav22_silence_trimmed_wav/p239/p239_498_mic1.wav|{S AE T ER D IY Z} {M AE CH} {W AA Z} {F EH R L IY} {S T R EY T F AO R W ER D}.|p239
+wav22_silence_trimmed_wav/p239/p239_499_mic1.wav|{AY} {AE M} {N AA T} {AH N D UW L IY} {S ER P R AY Z D}.|p239
+wav22_silence_trimmed_wav/p239/p239_500_mic1.wav|{AY AH N} {D AH NG K AH N} {S M IH TH} {IH Z} {R AO NG}.|p239
+wav22_silence_trimmed_wav/p240/p240_375_mic1.wav|{W IY} {AA R} {L UH K IH NG} {F AO R} {P ER F EH K SH AH N}.|p240
+wav22_silence_trimmed_wav/p240/p240_376_mic1.wav|{AA N} {F Y UW AH L}, {DH AH} {CH AE N S AH L ER} {HH AE Z} {AH} {N AH M B ER} {AH V} {AA P SH AH N Z}.|p240
+wav22_silence_trimmed_wav/p240/p240_377_mic1.wav|{HH IY} {L EY T ER} {B IH K EY M} {AH} {R IH S P EH K T IH D} {HH AY} {K AO R T} {JH AH JH}.|p240
+wav22_silence_trimmed_wav/p241/p241_369_mic1.wav|{DH EH R} {W AA Z} {N OW} {HH IH N T} {AH V} {S K AE N D AH L}.|p241
+wav22_silence_trimmed_wav/p241/p241_370_mic1.wav|{S EY F T IY} {W AA Z} {AO L S OW} {AH N} {IH SH UW}.|p241
+wav22_silence_trimmed_wav/p241/p241_371_mic1.wav|{W EH L}, {DH AH} {B IH G} {D EY} {HH AE Z} {ER AY V D}.|p241
+wav22_silence_trimmed_wav/p243/p243_393_mic1.wav|{B AH T} {S UW N} {DH AH} {G EY M} {D R AA P T} {B AE K} {IH N T UW} {IH T S} {OW L D} {W EY Z}.|p243
+wav22_silence_trimmed_wav/p243/p243_394_mic1.wav|{IH N} {M AY} {AH P IH N Y AH N}, {EH N IY} {T R AE N S F ER} {T UW} {AH} {F AO R AH N} {K L AH B} {W IH L} {HH EH L P} {HH IH M} {P R AA G R AH S}.|p243
+wav22_silence_trimmed_wav/p243/p243_395_mic1.wav|{IH N} {DH AE T} {S IH CH UW EY SH AH N}, {DH EY} {TH AO T} {W IY} {SH UH D} {B IY} {B IY T AH N}.|p243
+wav22_silence_trimmed_wav/p244/p244_419_mic1.wav|{B IH L D IH NG} {AH N} {AH N D ER G R AW N D}, {F AO R} {IH G Z AE M P AH L}, {HH AE Z} {P R UW V D} {AH} {N AY T M EH R}.|p244
+wav22_silence_trimmed_wav/p244/p244_420_mic1.wav|{DH AE T} {M AY T} {M IY N} {AH N AH DH ER} {D IH L EY}.|p244
+wav22_silence_trimmed_wav/p244/p244_421_mic1.wav|{W AH N} {D EY}, {HH IY} {TH R UW} {DH AH} {B EY B IY} {AH G EH N S T} {AH} {W AO L}.|p244
+wav22_silence_trimmed_wav/p245/p245_354_mic1.wav|{IH T} {W AA Z} {V EH R IY} {F AO R M AH L}.|p245
+wav22_silence_trimmed_wav/p245/p245_355_mic1.wav|{DH AH} {P R EH SH ER} {IH Z} {AA N} {S EH L T IH K} {IH N} {DH AH} {M EY N}.|p245
+wav22_silence_trimmed_wav/p245/p245_356_mic1.wav|{IH T S} {N AA T} {DH AE T} {K L IH R}-{K AH T}.|p245
+wav22_silence_trimmed_wav/p246/p246_355_mic1.wav|{IH T} {IH Z} {AH} {M AH M AO R IY AH L}.|p246
+wav22_silence_trimmed_wav/p246/p246_357_mic1.wav|{HH IY} {IH Z} {V EH R IY} {K AH N S ER N D} {AH B AW T} {HH IH Z} {F IH T N AH S} {AE Z} {AH} {F UH T B AO L ER}.|p246
+wav22_silence_trimmed_wav/p246/p246_358_mic1.wav|{DH EH R} {T AY M} {HH AE Z} {G AO N}.|p246
+wav22_silence_trimmed_wav/p247/p247_473_mic1.wav|{W IY} {W IH L} {N AW} {L UH K} {IH N T UW} {IH T S} {HH IH S T AO R IH K AH L} {B AE K G R AW N D}.|p247
+wav22_silence_trimmed_wav/p247/p247_474_mic1.wav|{DH EY} {W ER} {IH M P R EH S IH V} {AH G EH N S T} {F R AE N S}.|p247
+wav22_silence_trimmed_wav/p247/p247_475_mic1.wav|{DH AH} {CH IY F} {K AA N S T AH B AH L} {HH AE Z} {R IH T AY R D}.|p247
+wav22_silence_trimmed_wav/p248/p248_371_mic1.wav|{W EH DH ER} {HH IH Z} {S T AE N S} {IH Z} {SH EH R D} {B AY} {DH AH} {IH N K AH M IH NG} {M AE N AH JH ER} {IH Z} {AH N AH DH ER} {M AE T ER}.|p248
+wav22_silence_trimmed_wav/p248/p248_372_mic1.wav|{K AH L ER} {W AA Z} {AE T} {DH AH} {K AO R} {AH V} {HH IH Z} {L AY F}.|p248
+wav22_silence_trimmed_wav/p248/p248_373_mic1.wav|{HH IY Z} {D IH L AY T AH D}, {T UW}, {W IH DH} {DH AH} {N UW} {P R EH M AH S AH Z}.|p248
+wav22_silence_trimmed_wav/p249/p249_349_mic1.wav|{DH AH} {D IH S IH ZH AH N} {IH Z} {AH N} {AE B S AH L UW T} {D IH S G R EY S}.|p249
+wav22_silence_trimmed_wav/p249/p249_350_mic1.wav|{IH T} {IH Z} {HH AO R AH B AH L}.|p249
+wav22_silence_trimmed_wav/p249/p249_351_mic1.wav|{IH T} {W AA Z} {V EH R IY} {F AO R M AH L}.|p249
+wav22_silence_trimmed_wav/p250/p250_491_mic1.wav|{AY} {T IY} {EY CH} {EY} {EH S} {B IH N} {DH AH} {Y IH R} {AH V} {DH AH} {Y AH NG S T ER} {AE T} {K IH L M AA R N AH K}.|p250
+wav22_silence_trimmed_wav/p250/p250_492_mic1.wav|{DH IY Z} {P IY P AH L} {AH T AE K} {DH AH} {K AO R} {AH V} {M AY} {B IH L IY F S}.|p250
+wav22_silence_trimmed_wav/p250/p250_493_mic1.wav|{DH AH} {S T R AY K ER} {N IY D AH D} {AH T EH N SH AH N} {B IH F AO R} {HH IY} {K UH D} {R IH Z UW M}.|p250
+wav22_silence_trimmed_wav/p251/p251_367_mic1.wav|{HH IY} {HH AE Z} {S IY N} {DH AH} {P AE S T}.|p251
+wav22_silence_trimmed_wav/p251/p251_368_mic1.wav|{W IY} {W IH L} {B IY} {HH OW M L AH S}.|p251
+wav22_silence_trimmed_wav/p251/p251_369_mic1.wav|{DH AE T} {W UH D} {HH EH L P}.|p251
+wav22_silence_trimmed_wav/p252/p252_406_mic1.wav|{D AH Z} {IH T} {M AE T ER}?|p252
+wav22_silence_trimmed_wav/p252/p252_407_mic1.wav|{DH AH} {D AA K T ER Z} {AA R} {K W AY T} {P AA Z AH T IH V} {AH B AW T} {M AY} {P R AA G R AH S}.|p252
+wav22_silence_trimmed_wav/p252/p252_408_mic1.wav|{DH EY} {HH AE D} {T UW} {HH AE V} {HH AA S P IH T AH L} {T R IY T M AH N T}.|p252
+wav22_silence_trimmed_wav/p253/p253_404_mic1.wav|{EH R Z} {TH AE CH ER}{AA Z} {IH N} {DH AH} {R AY T} {P L EY S}, {AE T} {DH AH} {R AY T} {T AY M}.|p253
+wav22_silence_trimmed_wav/p253/p253_405_mic1.wav|{AH N T IH L} {DH EY} {K EY M} {T UW} {D UW} {IH T}.|p253
+wav22_silence_trimmed_wav/p253/p253_407_mic1.wav|{DH AE T} {M EY} {B IY}.|p253
+wav22_silence_trimmed_wav/p254/p254_398_mic1.wav|{AH R IH K S AH N} {W UH D} {HH AE V} {AH P R UW V D}.|p254
+wav22_silence_trimmed_wav/p254/p254_399_mic1.wav|{P Y UW P AH L Z} {W ER} {AH L AW D} {HH OW M} {AE T} {L AH N CH T AY M}.|p254
+wav22_silence_trimmed_wav/p254/p254_400_mic1.wav|{IH T} {W AA Z} {AH} {B R EH TH T EY K IH NG} {M OW M AH N T}.|p254
+wav22_silence_trimmed_wav/p255/p255_376_mic1.wav|{K AH L ER} {W AA Z} {AE T} {DH AH} {K AO R} {AH V} {HH IH Z} {L AY F}.|p255
+wav22_silence_trimmed_wav/p255/p255_377_mic1.wav|{HH IY Z} {D IH L AY T AH D}, {T UW}, {W IH DH} {DH AH} {N UW} {P R EH M AH S AH Z}.|p255
+wav22_silence_trimmed_wav/p255/p255_378_mic1.wav|{IH T} {W AA Z} {AE Z} {IH F} {IH T} {W AA Z} {AO L} {HH AE P AH N IH NG} {AE T} {AH} {G AA R D AH N} {P AA R T IY}.|p255
+wav22_silence_trimmed_wav/p256/p256_315_mic1.wav|{DH EY} {W ER} {F AE N T AE S T IH K}.|p256
+wav22_silence_trimmed_wav/p256/p256_316_mic1.wav|{DH EH R} {IH Z} {N OW} {AH DH ER} {S AH L UW SH AH N} {T UW} {K AH N JH EH S CH AH N} {IH N} {EH D AH N B ER OW}.|p256
+wav22_silence_trimmed_wav/p256/p256_317_mic1.wav|{SH IY} {IH Z} {V EH R IY} {D IH S T IH NG K T IH V}.|p256
+wav22_silence_trimmed_wav/p257/p257_429_mic1.wav|{IH T S} {AH} {M IH R AH K AH L}.|p257
+wav22_silence_trimmed_wav/p257/p257_430_mic1.wav|{DH AH} {F ER S T} {M IH N AH S T ER} {IH Z} {AA B V IY AH S L IY} {K AH N S ER N D} {T UW} {HH IY R} {AH B AW T} {DH IH S} {IH N S AH D AH N T}.|p257
+wav22_silence_trimmed_wav/p257/p257_431_mic1.wav|{DH AE T} {W AA Z} {DH AH} {F ER S T} {T AY M} {AY} {W ER K T} {W IH DH} {R IH CH ER D}.|p257
+wav22_silence_trimmed_wav/p258/p258_409_mic1.wav|{DH AH} {V IH ZH W AH L} {AA R T S} {K AH M IH T IY} {T UH K} {DH IH S} {D IH S IH ZH AH N} {IH N} {D IH S EH M B ER}.|p258
+wav22_silence_trimmed_wav/p258/p258_410_mic1.wav|{AH DH ER} {M EH M B ER Z} {AH V} {DH AH} {F AE M AH L IY} {W ER} {T UW} {AH P S EH T} {T UW} {K AA M EH N T} {L AE S T} {N AY T}.|p258
+wav22_silence_trimmed_wav/p258/p258_411_mic1.wav|{AY} {B IH L IY V} {DH AH} {G AE P} {IH Z} {N IH R L IY} {DH EH R}.|p258
+wav22_silence_trimmed_wav/p259/p259_476_mic1.wav|{HH IY} {D IH Z ER V D} {AH} {R EH D} {K AA R D}.|p259
+wav22_silence_trimmed_wav/p259/p259_477_mic1.wav|{DH AH} {P R AY S} {P EY D} {F AO R} {IH T} {W AA Z} {N AA T} {D IH S K L OW Z D}.|p259
+wav22_silence_trimmed_wav/p259/p259_478_mic1.wav|{Y UW} {HH AE V} {T UW} {HH AE V} {AH} {P R UW V AH N} {T R AE K} {R EH K ER D} {T UW} {G EH T} {DH EH M}.|p259
+wav22_silence_trimmed_wav/p260/p260_352_mic1.wav|{DH EY} {SH UH D} {T EY K} {DH EH R} {M OW B AH L} {F OW N Z}.|p260
+wav22_silence_trimmed_wav/p260/p260_353_mic1.wav|{EY T} {M AH N TH S} {L EY T ER}, {HH IY} {W AA Z} {D EH D}.|p260
+wav22_silence_trimmed_wav/p260/p260_354_mic1.wav|{AY} {EY CH} {EY} {V IY} {IY} {AH} {D R IY M}.|p260
+wav22_silence_trimmed_wav/p261/p261_469_mic1.wav|{DH EY} {AA R} {D IH F AY N D} {B AY} {L AO}.|p261
+wav22_silence_trimmed_wav/p261/p261_470_mic1.wav|{IH F} {DH AE T S} {DH AH} {K EY S}, {HH IY} {W IH L} {S T R AH G AH L}.|p261
+wav22_silence_trimmed_wav/p261/p261_471_mic1.wav|{AY M} {V EH R IY} {P L IY Z D} {F AO R} {DH AH} {K L AH B} {AE N D} {F AO R} {M AY S EH L F}.|p261
+wav22_silence_trimmed_wav/p262/p262_389_mic1.wav|{IH T} {W AA Z} {AH} {B R EH TH T EY K IH NG} {M OW M AH N T}.|p262
+wav22_silence_trimmed_wav/p262/p262_390_mic1.wav|{IH T} {W AA Z} {AA N} {F AY ER}.|p262
+wav22_silence_trimmed_wav/p262/p262_391_mic1.wav|{DH IH S} {IH Z} {AH} {M EY JH ER} {S T EH P} {F AO R W ER D} {F AO R} {K EH R ER Z}.|p262
+wav22_silence_trimmed_wav/p263/p263_468_mic1.wav|{IH T S} {B IH N} {AH} {L AO NG}, {L AO NG} {JH ER N IY}.|p263
+wav22_silence_trimmed_wav/p263/p263_469_mic1.wav|{AY} {JH AH S T} {G AA T} {AH N D ER} {DH AH} {B AO L} {AH} {B IH T}.|p263
+wav22_silence_trimmed_wav/p263/p263_470_mic1.wav|{DH EH R} {IH Z} {AH} {S IH M AH L ER} {S T AO R IY} {F AO R} {M IH L K} {AE N D} {D EH R IY} {P R AA D AH K T S}.|p263
+wav22_silence_trimmed_wav/p264/p264_490_mic1.wav|{W IY V} {G AA T} {G UH D} {AA P SH AH N Z}.|p264
+wav22_silence_trimmed_wav/p264/p264_491_mic1.wav|{DH IH S} {AA P ER EY SH AH N} {W IH L} {CH EY N JH} {HH ER} {L AY F}.|p264
+wav22_silence_trimmed_wav/p264/p264_492_mic1.wav|{N UW} {Y AO R K} {IH Z} {M AY} {HH OW M}.|p264
+wav22_silence_trimmed_wav/p265/p265_347_mic1.wav|{DH AH} {F AY N AH L} {D IH S IH ZH AH N} {W AA Z} {B IH T W IY N} {S K AA T L AH N D} {AE N D} {DH AH} {R IY P AH B L AH K} {AH V} {AY ER L AH N D}.|p265
+wav22_silence_trimmed_wav/p265/p265_348_mic1.wav|{AH} {R IY V Y UW} {IH Z} {AH N D ER} {W EY}.|p265
+wav22_silence_trimmed_wav/p265/p265_349_mic1.wav|{S EY F T IY} {W AA Z} {AO L S OW} {AH N} {IH SH UW}.|p265
+wav22_silence_trimmed_wav/p266/p266_419_mic1.wav|{IH T} {IH Z} {L IY G AH L IY} {B AY N D IH NG}.|p266
+wav22_silence_trimmed_wav/p266/p266_420_mic1.wav|{P EH R IH S} {IH Z} {N AA T} {OW N L IY} {Y AH NG}.|p266
+wav22_silence_trimmed_wav/p266/p266_421_mic1.wav|{S AH CH} {AE Z} {IH T} {IH Z}.|p266
+wav22_silence_trimmed_wav/p267/p267_416_mic1.wav|{B AY} {DH EH N}, {AH} {M AE S IH V} {L IY G AH L} {B AE T AH L} {IH Z} {L AY K L IY} {T UW} {HH AE V} {S T AA R T AH D}.|p267
+wav22_silence_trimmed_wav/p267/p267_417_mic1.wav|{DH IH S} {IH Z} {N OW} {R AH F L EH K SH AH N} {AA N} {R EY N JH ER Z}.|p267
+wav22_silence_trimmed_wav/p267/p267_418_mic1.wav|{F ER DH ER} {N UW} {EH K W AH T IY} {W AA Z} {R EY Z D} {IH N} {AH} {P L EY S IH NG} {IH N} {JH AE N Y UW EH R IY}.|p267
+wav22_silence_trimmed_wav/p268/p268_406_mic1.wav|{W AA SH IH NG T AH N} {IH Z} {K AH N S UW M D} {B AY} {DH AH} {K R AY S AH S}.|p268
+wav22_silence_trimmed_wav/p268/p268_407_mic1.wav|{N AW}, {S AH D AH N L IY}, {W IY} {HH AE V} {DH IH S} {N UW} {L AE N D S K EY P}.|p268
+wav22_silence_trimmed_wav/p268/p268_408_mic1.wav|{AY} {SH UH D} {TH IH NG K} {S OW}, {T UW}.|p268
+wav22_silence_trimmed_wav/p269/p269_398_mic1.wav|{AH P AA R T} {F R AH M} {DH AH} {R IH Z AH L T} {W IY} {HH AE V} {T UW} {B IY} {HH AE P IY} {W IH DH} {AW ER} {P ER F AO R M AH N S}.|p269
+wav22_silence_trimmed_wav/p269/p269_399_mic1.wav|{W EH L}, {IH T} {D IH D} {L AE S T} {T AY M}, {HH IY} {W AA Z} {R IY M AY N D AH D}.|p269
+wav22_silence_trimmed_wav/p269/p269_400_mic1.wav|{B AY} {DH EH N}, {AH} {M AE S IH V} {L IY G AH L} {B AE T AH L} {IH Z} {L AY K L IY} {T UW} {HH AE V} {S T AA R T AH D}.|p269
+wav22_silence_trimmed_wav/p270/p270_457_mic1.wav|{W IY} {W IH L} {D IY L} {W IH DH} {DH AH} {R EH F Y UW JH IY Z}.|p270
+wav22_silence_trimmed_wav/p270/p270_458_mic1.wav|{IH F} {DH AE T S} {DH AH} {K EY S}, {HH IY} {W IH L} {S T R AH G AH L}.|p270
+wav22_silence_trimmed_wav/p270/p270_459_mic1.wav|{W IY} {AA R} {OW V ER} {DH AH} {M UW N}.|p270
+wav22_silence_trimmed_wav/p271/p271_449_mic1.wav|{IH T} {W IH L} {D AH T ER M AH N} {W EH DH ER} {AH N} {AH F EH N S} {HH AE Z} {AH K ER D}.|p271
+wav22_silence_trimmed_wav/p271/p271_450_mic1.wav|{W AA Z} {IH T} {W ER TH} {IH T}?|p271
+wav22_silence_trimmed_wav/p271/p271_451_mic1.wav|{IH T} {W AA Z} {IH G N AO R D}.|p271
+wav22_silence_trimmed_wav/p272/p272_407_mic1.wav|{HH AW EH V ER}, {DH AH} {P L EY ER Z} {SH UH D} {HH AE V} {AH} {V OY S} {IH N} {DH IY Z} {M AE T ER Z}.|p272
+wav22_silence_trimmed_wav/p272/p272_408_mic1.wav|{HH IY} {HH AE Z} {R IH T AH N} {T UW} {DH AH} {M IH N AH S T ER} {AE F T ER} {M IY T IH NG Z} {AA N} {DH AH} {AY L AH N D}.|p272
+wav22_silence_trimmed_wav/p272/p272_409_mic1.wav|{B AH T} {AY} {F EH L T} {IH T} {W AA Z} {IH M P AO R T AH N T} {T UW} {IH N T R AH D UW S} {DH AH} {EH L AH M AH N T} {AH V} {T R AH D IH SH AH N}.|p272
+wav22_silence_trimmed_wav/p273/p273_431_mic1.wav|{DH EY} {AA R} {N AA T} {L EH F T} {W IH NG}.|p273
+wav22_silence_trimmed_wav/p273/p273_432_mic1.wav|{IH T} {IH Z} {N AA T} {AH} {S T AE N D IH NG} {AA R M IY}.|p273
+wav22_silence_trimmed_wav/p273/p273_433_mic1.wav|{S T R EY N JH L IY} {IH N AH F} {AY} {F EH L T} {V EH R IY} {SH AA R P}.|p273
+wav22_silence_trimmed_wav/p274/p274_465_mic1.wav|{DH AH} {EH D AH N B ER OW} {AA D IY AH N S} {W AA Z} {EY B AH L} {T UW} {AH N D ER S T AE N D} {DH AH} {D AY AH L AO G}.|p274
+wav22_silence_trimmed_wav/p274/p274_466_mic1.wav|{F IH L} {M IH K EH L S AH N} {D IH D} {DH AE T} {L AE S T} {Y IH R}.|p274
+wav22_silence_trimmed_wav/p274/p274_467_mic1.wav|{DH AH} {AE N S ER} {W AA Z} {AH P} {DH EH R} {AA N} {DH AH} {S T EY JH}.|p274
+wav22_silence_trimmed_wav/p275/p275_424_mic1.wav|{W IY} {AA R} {N AW} {AH P} {AH G EH N S T} {IH T}.|p275
+wav22_silence_trimmed_wav/p275/p275_425_mic1.wav|{L AE S T} {Y IH R}, {IH T} {W AA Z} {W AH N} {B AY} {JH AE K} {M AH K AA N AH L}, {DH AH} {F ER S T} {M IH N AH S T ER}.|p275
+wav22_silence_trimmed_wav/p275/p275_426_mic1.wav|{AY} {W AA N T} {AH} {K ER IH R}.|p275
+wav22_silence_trimmed_wav/p276/p276_460_mic1.wav|{W IY} {W IH L} {P EY} {DH EH R} {B IH L Z}.|p276
+wav22_silence_trimmed_wav/p276/p276_461_mic1.wav|{DH IH S} {K AO R T} {HH AE Z} {M EY D} {AH N} {AO R D ER} {W IH CH} {HH AE Z} {N AA T} {B IH N} {AH B Z ER V D}.|p276
+wav22_silence_trimmed_wav/p276/p276_462_mic1.wav|{IH T} {W AA Z} {V EH R IY} {P AA Z AH T IH V} {AE N D} {V EH R IY} {HH EH L P F AH L}.|p276
+wav22_silence_trimmed_wav/p277/p277_458_mic1.wav|{S K AA T IH SH} {P AH B L IH K} {F IH N AE N S IH Z} {IH M ER JH} {F R AH M} {DH IH S} {R IY V Y UW} {EH N HH AE N S T}.|p277
+wav22_silence_trimmed_wav/p277/p277_459_mic1.wav|{SH IY} {AO L S OW} {D IH F EH N D AH D} {DH AH} {L AO R D} {CH AE N S AH L ER Z} {IH G Z IH S T IH NG} {P AW ER Z}.|p277
+wav22_silence_trimmed_wav/p277/p277_460_mic1.wav|{AY D} {L AH V} {T UW} {B IY} {L AY K} {P IY T ER}.|p277
+wav22_silence_trimmed_wav/p278/p278_405_mic1.wav|{W IY} {M AH S T} {IH M P R UW V} {AW ER} {R IY L EY SH AH N Z} {W IH DH} {G AH V ER N M AH N T}.|p278
+wav22_silence_trimmed_wav/p278/p278_406_mic1.wav|{DH AH} {K AE B AH N AH T} {IH Z} {S P L IH T} {OW V ER} {DH AH} {IH SH UW}.|p278
+wav22_silence_trimmed_wav/p278/p278_407_mic1.wav|{M EH S} {M AH N EY L} {W AA Z} {K IH L D} {AA N} {IH M P AE K T}.|p278
+wav22_silence_trimmed_wav/p279/p279_401_mic1.wav|{N OW B AA D IY} {IY V IH N} {N UW} {IH T} {HH AE D} {HH AE P AH N D}.|p279
+wav22_silence_trimmed_wav/p279/p279_402_mic1.wav|{W AH T} {W UH D} {B IY} {DH AH} {P OY N T}?|p279
+wav22_silence_trimmed_wav/p279/p279_403_mic1.wav|{DH AH} {W IY K L IY} {AE V ER IH JH} {W AA Z} {TH R IY} {AW ER Z}.|p279
+wav22_silence_trimmed_wav/p281/p281_455_mic1.wav|{SH IY} {HH AE Z} {N AW} {B IH N} {R EH JH IH S T ER D} {AE Z} {D IH S EY B AH L D}.|p281
+wav22_silence_trimmed_wav/p281/p281_456_mic1.wav|{W IY} {K UH D} {HH AA R D L IY} {B IH L IY V} {IH T}.|p281
+wav22_silence_trimmed_wav/p281/p281_457_mic1.wav|{DH AH} {M EH N} {AA R} {V EH R IY} {W ER IY D}.|p281
+wav22_silence_trimmed_wav/p282/p282_365_mic1.wav|{B AY} {DH AE T} {T AY M}, {HH AW EH V ER}, {IH T} {W AA Z} {AO L R EH D IY} {T UW} {L EY T}.|p282
+wav22_silence_trimmed_wav/p282/p282_366_mic1.wav|{IH T} {W AA Z} {AH} {F AH N IY} {G EY M}.|p282
+wav22_silence_trimmed_wav/p282/p282_367_mic1.wav|{DH EH R} {W AA Z AH N T} {AH} {G OW L}.|p282
+wav22_silence_trimmed_wav/p283/p283_466_mic1.wav|{DH AH} {EH D AH N B ER OW} {AA D IY AH N S} {W AA Z} {EY B AH L} {T UW} {AH N D ER S T AE N D} {DH AH} {D AY AH L AO G}.|p283
+wav22_silence_trimmed_wav/p283/p283_467_mic1.wav|{IH T} {AO L} {B IH G AE N} {AE Z} {AH N} {AE K S AH D AH N T}.|p283
+wav22_silence_trimmed_wav/p283/p283_468_mic1.wav|{W IY} {AA R} {G OW IH NG} {TH R UW} {DH AH} {P R AA S EH S}.|p283
+wav22_silence_trimmed_wav/p284/p284_420_mic1.wav|{HH IY} {W AA Z} {K AH N V IH K T AH D} {AE T} {G L AE S K OW} {SH EH R AH F} {K AO R T}.|p284
+wav22_silence_trimmed_wav/p284/p284_421_mic1.wav|{AH R IH K S AH N} {W UH D} {HH AE V} {AH P R UW V D}.|p284
+wav22_silence_trimmed_wav/p284/p284_422_mic1.wav|{AY V} {IH N V EH N T AH D} {AH} {V IH L AH JH} {IH N} {IY S T} {L AA TH IY AH N}.|p284
+wav22_silence_trimmed_wav/p285/p285_398_mic1.wav|{TH AE NG K F AH L IY}, {N OW}-{W AH N} {AA N} {DH AH} {B UH S} {IH Z} {T UW} {B AE D L IY} {HH ER T}.|p285
+wav22_silence_trimmed_wav/p285/p285_399_mic1.wav|{IH Z} {DH AE T} {P AA S AH B AH L}?|p285
+wav22_silence_trimmed_wav/p285/p285_400_mic1.wav|{B AH T}, {IH N} {F AE K T}, {DH AH} {R IH V ER S} {IH Z} {T R UW}.|p285
+wav22_silence_trimmed_wav/p286/p286_463_mic1.wav|{W IY} {AA R} {N AW} {AH P} {AH G EH N S T} {IH T}.|p286
+wav22_silence_trimmed_wav/p286/p286_464_mic1.wav|{F EY L Y ER} {T UW} {R IY AE K T} {T UW} {IY CH} {W AH N} {K UH D} {M IY N} {AH} {D IH Z AE S T ER}.|p286
+wav22_silence_trimmed_wav/p286/p286_465_mic1.wav|{IH T} {IH Z} {V AY T AH L} {T UW} {K L EH R AH F AY} {DH EH R} {R OW L}.|p286
+wav22_silence_trimmed_wav/p287/p287_419_mic1.wav|{IH T} {W AA Z} {IH M P AO R T AH N T} {T UW} {W IH N} {DH AH} {S IH NG G AH L Z}.|p287
+wav22_silence_trimmed_wav/p287/p287_420_mic1.wav|{AY M} {P L IY Z D} {AH B AW T} {W AH N} {TH IH NG}.|p287
+wav22_silence_trimmed_wav/p287/p287_421_mic1.wav|{DH AE T S} {B IH N} {AO L} {ER AW N D} {Y UH R AH P} {W IH DH} {M IY}.|p287
+wav22_silence_trimmed_wav/p288/p288_407_mic1.wav|{DH AH} {R IY L} {EH N AH M IY} {IH Z} {IH N} {Y AO R} {OW N} {B AE K} {Y AA R D}.|p288
+wav22_silence_trimmed_wav/p288/p288_408_mic1.wav|{DH AH} {V IH ZH W AH L} {AA R T S} {K AH M IH T IY} {T UH K} {DH IH S} {D IH S IH ZH AH N} {IH N} {D IH S EH M B ER}.|p288
+wav22_silence_trimmed_wav/p288/p288_409_mic1.wav|{W IY} {N IY D} {DH AH} {CH IY F} {M EH D AH K AH L} {AO F AH S ER} {T UW} {K L EH R AH F AY} {DH AH} {M AE T ER}.|p288
+wav22_silence_trimmed_wav/p292/p292_419_mic1.wav|{B AH T} {AH} {S ER P R AY Z} {IH Z} {IH N} {S T AO R}.|p292
+wav22_silence_trimmed_wav/p292/p292_420_mic1.wav|{Y UW} {K AE N} {K OW P} {W IH DH} {IH T}.|p292
+wav22_silence_trimmed_wav/p292/p292_421_mic1.wav|{HH IY} {W AA Z} {B AE K} {T UW} {S K W EH R} {W AH N}.|p292
+wav22_silence_trimmed_wav/p293/p293_395_mic1.wav|{DH IH S} {IH Z} {AH} {K AH M P L IY T L IY} {N UW} {IH K S P IH R IY AH N S} {F AO R} {M IY}.|p293
+wav22_silence_trimmed_wav/p293/p293_396_mic1.wav|{AY} {SH UH D} {N EH V ER} {HH AE V} {K AH M} {OW V ER} {T UW} {F AY F}.|p293
+wav22_silence_trimmed_wav/p293/p293_397_mic1.wav|{W AH T} {K AY N D} {AH V} {P ER S AH N} {IH Z} {HH IY}?|p293
+wav22_silence_trimmed_wav/p294/p294_419_mic1.wav|{W IY} {HH AE V} {EH V ER IY} {R IH S P EH K T} {F AO R} {M IH SH EH L}.|p294
+wav22_silence_trimmed_wav/p294/p294_420_mic1.wav|{M R} {B L AH NG K AH T} {W AA Z} {K AH N V IH N S T}.|p294
+wav22_silence_trimmed_wav/p294/p294_421_mic1.wav|{DH AH} {AA K SH AH N} {W IH L} {B IY} {HH EH L D} {T AH M AA R OW}.|p294
+wav22_silence_trimmed_wav/p295/p295_419_mic1.wav|{EH V R IY TH IH NG} {IH Z} {S ER AW N D AH D} {B AY} {K AH N F Y UW ZH AH N}.|p295
+wav22_silence_trimmed_wav/p295/p295_420_mic1.wav|{B AH T}, {AH V} {K AO R S}, {IH T} {IH Z AH N T}.|p295
+wav22_silence_trimmed_wav/p295/p295_421_mic1.wav|{W IY} {AA R} {AO L M OW S T} {AE T} {DH AE T} {P OY N T}, {B AH T} {N AA T} {K W AY T}.|p295
+wav22_silence_trimmed_wav/p297/p297_419_mic1.wav|{HH AA L IY W UH D} {K AA M AH D IY} {IH Z} {HH AE V IH NG} {AH} {G UH D} {W IY K}.|p297
+wav22_silence_trimmed_wav/p297/p297_420_mic1.wav|{Y EH T} {DH AH} {K AH N S EH N S AH S} {IH Z}, {IH T S} {W ER TH} {IH T}.|p297
+wav22_silence_trimmed_wav/p297/p297_421_mic1.wav|{IH T} {EH S} {DH AH} {T IH P} {AH V} {DH AH} {AY S B ER G}.|p297
+wav22_silence_trimmed_wav/p298/p298_400_mic1.wav|{DH AH} {S AW TH} {AE F R IH K AA N} {D IH F EH N D AH D} {HH IH Z} {W ER K} {EH TH AH K}.|p298
+wav22_silence_trimmed_wav/p298/p298_401_mic1.wav|{DH AH} {OW L IH M P IH K} {K AH M IH T IY} {SH UH D} {B IY} {AH SH EY M D} {AH V} {DH EH M S EH L V Z}.|p298
+wav22_silence_trimmed_wav/p298/p298_402_mic1.wav|{Y UW} {AA R} {G OW IH NG} {T UW} {G L AE S K OW} {EH R P AO R T}, {AE N D} {N AA T} {K AH M IH NG} {B AE K}.|p298
+wav22_silence_trimmed_wav/p299/p299_400_mic1.wav|{W IY} {AA R} {W ER K IH NG} {AA N} {DH AH} {T UW} {TH IH NG Z}.|p299
+wav22_silence_trimmed_wav/p299/p299_401_mic1.wav|{W IY} {OW N L IY} {L AO S T} {DH AH} {TH ER D} {G OW L}.|p299
+wav22_silence_trimmed_wav/p299/p299_402_mic1.wav|{W IH M AH N} {R IY P AO R T AH D} {M AO R} {D IH P R EH SH AH N} {DH AE N} {M EH N}.|p299
+wav22_silence_trimmed_wav/p300/p300_395_mic1.wav|{V IH K T AH R IY}, {SH IY} {IH N S IH S T AH D} {Y EH S T ER D EY}, {W AA Z} {F AA R} {M AO R} {IH M P AO R T AH N T} {DH AE N} {DH AH} {R IH W AO R D Z}.|p300
+wav22_silence_trimmed_wav/p300/p300_396_mic1.wav|{F AO R} {AO L} {HH IH Z} {S AH K S EH S AH Z}, {HH IY} {IH Z} {AH K AH S T AH M D} {T UW} {W EY T IH NG} {F AO R} {F UH L F IH L M AH N T}.|p300
+wav22_silence_trimmed_wav/p300/p300_397_mic1.wav|{AH} {F EY T AH L} {AE K S AH D AH N T} {IH N K W AY R IY} {IH Z} {AO NG G OW IH NG}.|p300
+wav22_silence_trimmed_wav/p301/p301_406_mic1.wav|{JH AE K S AH N} {M EY} {W EH L} {B IY} {R AY T}.|p301
+wav22_silence_trimmed_wav/p301/p301_407_mic1.wav|{M AY} {TH AO T S} {AA R} {W IH DH} {DH EH R} {F AE M AH L IY Z}.|p301
+wav22_silence_trimmed_wav/p301/p301_408_mic1.wav|{AY} {S AO} {S AH M} {G UH D} {TH IH NG Z}.|p301
+wav22_silence_trimmed_wav/p302/p302_311_mic1.wav|{IH T} {P L AE N Z} {T UW} {R IH T ER N} {T UW} {DH IH S} {F IY L D}.|p302
+wav22_silence_trimmed_wav/p302/p302_312_mic1.wav|{HH AW EH V ER}, {DH EH R} {W AA Z} {N OW} {HH OW P}, {AE N D} {G L AO R IY} {T UW}, {F AO R} {S K AA T L AH N D}.|p302
+wav22_silence_trimmed_wav/p302/p302_313_mic1.wav|{T UW} {AO L} {IH N T EH N T S} {AE N D} {P ER P AH S AH Z}, {HH IY} {R AE N} {DH AH} {SH OW}.|p302
+wav22_silence_trimmed_wav/p303/p303_348_mic1.wav|{AY} {K AE N} {AH P IH R} {T UW} {B IY} {N AY S} {AE N D} {L AH V L IY}.|p303
+wav22_silence_trimmed_wav/p303/p303_349_mic1.wav|{AY} {D OW N T} {TH IH NG K} {DH AH} {S AO D AH S} {W IH L} {L EY} {D AW N}.|p303
+wav22_silence_trimmed_wav/p303/p303_350_mic1.wav|{P IY P AH L} {T EH N D AH D} {T UW} {S T EY} {DH EH R} {F AO R} {S AH M} {T AY M}.|p303
+wav22_silence_trimmed_wav/p304/p304_419_mic1.wav|{AY} {K AE N} {AH N D ER S T AE N D} {W AY} {DH EY} {HH AE V} {G AO N}.|p304
+wav22_silence_trimmed_wav/p304/p304_420_mic1.wav|{DH AE T}, {DH OW}, {W AA Z} {DH EH N}.|p304
+wav22_silence_trimmed_wav/p304/p304_421_mic1.wav|{P IY P AH L} {SH UH D} {N AA T} {B IH K AH M} {K AH M P L EY S AH N T}.|p304
+wav22_silence_trimmed_wav/p305/p305_417_mic1.wav|{W IY V} {S T IH L} {G AA T} {AH} {S EY} {IH N} {DH IH S}.|p305
+wav22_silence_trimmed_wav/p305/p305_418_mic1.wav|{SH IY} {K AE N T} {S EY} {W EH R} {SH IY} {W AA Z}, {W AH T} {SH IY} {D IH D}.|p305
+wav22_silence_trimmed_wav/p305/p305_419_mic1.wav|{AY L} {T EY K} {W AH T} {K AH M Z} {AH L AO NG}.|p305
+wav22_silence_trimmed_wav/p306/p306_355_mic1.wav|{AY} {D IH D AH N T} {IY V IH N} {HH AE V} {DH AH} {F ER S T} {AY D IY AH}.|p306
+wav22_silence_trimmed_wav/p306/p306_356_mic1.wav|{N OW} {P ER S AH N} {W AA Z} {CH AA R JH D}.|p306
+wav22_silence_trimmed_wav/p306/p306_357_mic1.wav|{AY V} {OW N L IY} {M EH T} {HH IH M} {TH R IY} {T AY M Z}.|p306
+wav22_silence_trimmed_wav/p307/p307_419_mic1.wav|{IH T S} {AH} {P AA L AH S IY} {W IH CH} {HH AE Z} {W ER K T} {F AO R} {AH S}.|p307
+wav22_silence_trimmed_wav/p307/p307_420_mic1.wav|{L OW K AH L IY}, {T UW}, {DH AH} {M}{EH M} {P IY} {IH Z} {AH N D ER} {F AY ER}.|p307
+wav22_silence_trimmed_wav/p307/p307_421_mic1.wav|{HH IH Z} {V Y UW Z} {AA R} {HH AA R D L IY} {S ER P R AY Z IH NG}.|p307
+wav22_silence_trimmed_wav/p308/p308_418_mic1.wav|{AO R} {S OW} {SH IY} {TH AO T}.|p308
+wav22_silence_trimmed_wav/p308/p308_419_mic1.wav|{IH T} {W AA Z} {AH N AH DH ER} {G UH D} {AY D IY AH}.|p308
+wav22_silence_trimmed_wav/p308/p308_420_mic1.wav|{DH IH S} {W UH D} {D IH S K ER IH JH} {IH N V EH S T M AH N T} {AE N D} {JH AA B} {K R IY EY SH AH N}.|p308
+wav22_silence_trimmed_wav/p310/p310_419_mic1.wav|{IH T} {W UH D} {SH OW} {DH EH M} {AH} {P AA Z AH T IH V} {W EY} {F AO R W ER D}.|p310
+wav22_silence_trimmed_wav/p310/p310_420_mic1.wav|{AY} {TH IH NG K} {IH T S} {AH} {D IH S G R EY S}.|p310
+wav22_silence_trimmed_wav/p310/p310_421_mic1.wav|{S OW} {HH IY} {SH UH D} {B IY}.|p310
+wav22_silence_trimmed_wav/p311/p311_418_mic1.wav|{AY} {AH G R IY} {W IH DH} {DH EH M}.|p311
+wav22_silence_trimmed_wav/p311/p311_419_mic1.wav|{AY} {F IY L} {V EH R IY} {S T R AO NG L IY} {AH B AW T} {DH AE T}.|p311
+wav22_silence_trimmed_wav/p311/p311_420_mic1.wav|{W IY} {W IH L} {L IH S AH N} {T UW} {K AA L IY G Z}.|p311
+wav22_silence_trimmed_wav/p312/p312_414_mic1.wav|{DH AH} {P R AH P OW Z AH L Z} {HH AE V} {B IH N} {T EY K AH N} {AW T} {AH V} {K AA N T EH K S T}.|p312
+wav22_silence_trimmed_wav/p312/p312_415_mic1.wav|{G AA L F} {HH AE Z} {L AO S T} {AH} {G R EY T} {K EH R IH K T ER}.|p312
+wav22_silence_trimmed_wav/p312/p312_416_mic1.wav|{HH AW EH V ER}, {IH T} {HH AE Z} {HH AE D} {OW N L IY} {AH} {L IH M AH T AH D} {AH P T EY K}.|p312
+wav22_silence_trimmed_wav/p313/p313_418_mic1.wav|{W UH D} {DH EY} {W ER K} {T AH G EH DH ER} {AH G EH N}?|p313
+wav22_silence_trimmed_wav/p313/p313_419_mic1.wav|{AY} {D IH D AH N T} {P L EY} {AO L} {DH AE T} {W EH L}.|p313
+wav22_silence_trimmed_wav/p313/p313_420_mic1.wav|{HH UW} {K AE N} {T EH L}?|p313
+wav22_silence_trimmed_wav/p314/p314_418_mic1.wav|{AE Z} {F AO R} {OW AH N}, {K L AE S} {IH Z} {P ER M AA N EH N T}.|p314
+wav22_silence_trimmed_wav/p314/p314_419_mic1.wav|{T IY} {EY CH} {IY} {P EY N} {W AA Z} {AO L M OW S T} {T UW} {M AH CH} {T UW} {B EH R}.|p314
+wav22_silence_trimmed_wav/p314/p314_420_mic1.wav|{M AY} {TH AO T S} {AA R} {W IH DH} {DH EH R} {F AE M AH L IY Z}.|p314
+wav22_silence_trimmed_wav/p316/p316_418_mic1.wav|{DH IH S} {IH Z} {DH AH} {G R EY T AH S T} {M OW M AH N T} {AH V} {AW ER} {L AY V Z}.|p316
+wav22_silence_trimmed_wav/p316/p316_419_mic1.wav|{AA D IY AH N S AH Z} {DH EH R} {W ER} {SH AA K T}.|p316
+wav22_silence_trimmed_wav/p316/p316_420_mic1.wav|{DH EY} {R IH S P AA N D IH D} {IH N} {DH AH} {M OW S T} {P AA Z AH T IH V} {W EY}.|p316
+wav22_silence_trimmed_wav/p317/p317_418_mic1.wav|{SH IY} {W AA Z} {IH K S T R IY M L IY} {R IH JH AH D}.|p317
+wav22_silence_trimmed_wav/p317/p317_419_mic1.wav|{N IY DH ER} {S AY D} {K AE N} {W IH N} {DH IH S} {W AO R}.|p317
+wav22_silence_trimmed_wav/p317/p317_420_mic1.wav|{B AA R OW IH NG} {P AW ER} {W AA Z} {W AH N} {AH V} {DH OW Z} {IH M P R UW V M AH N T S}.|p317
+wav22_silence_trimmed_wav/p318/p318_419_mic1.wav|{AY} {D IH D AH N T} {P L EY} {AO L} {DH AE T} {W EH L}.|p318
+wav22_silence_trimmed_wav/p318/p318_420_mic1.wav|{HH UW} {K AE N} {T EH L}?|p318
+wav22_silence_trimmed_wav/p318/p318_421_mic1.wav|{IH T} {AH P IH R Z} {T UW} {HH AE V} {B IH N} {K L OW Z D} {D AW N}.|p318
+wav22_silence_trimmed_wav/p323/p323_418_mic1.wav|{W IY} {T EH N D} {T UW} {K AH M} {G UH D} {AE T} {DH AH} {EH N D}.|p323
+wav22_silence_trimmed_wav/p323/p323_419_mic1.wav|{AY} {HH AE V AH N T} {EH N JH OY D} {DH AH} {L AE S T} {K AH P AH L} {AH V} {Y IH R Z}.|p323
+wav22_silence_trimmed_wav/p323/p323_420_mic1.wav|{DH AH} {K AH M IH SH AH N} {IH Z} {N AA T} {DH AH} {OW N L IY} {L UW Z ER}.|p323
+wav22_silence_trimmed_wav/p326/p326_395_mic1.wav|{IH T} {W AA Z} {L AY K} {DH AH} {OW L D} {D EY Z}.|p326
+wav22_silence_trimmed_wav/p326/p326_396_mic1.wav|{AH} {G R EY T} {D IY L} {HH AE Z} {B IH N} {AH CH IY V D}.|p326
+wav22_silence_trimmed_wav/p326/p326_397_mic1.wav|{M AY} {F Y UW CH ER} {IH Z} {IH N} {DH AH} {M EH R AH TH AA N}.|p326
+wav22_silence_trimmed_wav/p329/p329_419_mic1.wav|{W IY V} {K AH M} {F R AH M} {AH} {L AO NG} {W EY} {B AE K}.|p329
+wav22_silence_trimmed_wav/p329/p329_420_mic1.wav|{AY V} {B IH N} {AE S K T} {DH AE T} {AO L R EH D IY}, {DH IH S} {M AO R N IH NG} - {AA N} {DH AH} {R EY D IY OW}.|p329
+wav22_silence_trimmed_wav/p329/p329_421_mic1.wav|{AY L} {N EH V ER} {TH IH NG K} {AH V} {M AY S EH L F} {AE Z} {AH} {S T AA R}.|p329
+wav22_silence_trimmed_wav/p330/p330_418_mic1.wav|{N AW}, {HH AW EH V ER}, {IH T} {HH AE Z} {AH N D ER G AO N} {AH} {D R AH M AE T IH K} {D IH K L AY N}.|p330
+wav22_silence_trimmed_wav/p330/p330_419_mic1.wav|{DH IH S} {IH Z} {AH B AW T} {DH AH} {AO R AH N JH} {AO R D ER}.|p330
+wav22_silence_trimmed_wav/p330/p330_420_mic1.wav|{B AH T} {IH T} {L UH K S} {G UH D} {F AO R} {N EH K S T} {Y IH R}.|p330
+wav22_silence_trimmed_wav/p333/p333_419_mic1.wav|{DH EY} {W ER} {IH N} {G UH D} {HH Y UW M ER}, {T UW}.|p333
+wav22_silence_trimmed_wav/p333/p333_420_mic1.wav|{IH T} {Y UW Z D} {T UW} {B AA DH ER} {M IY} {S AH M T AY M Z}, {B AH T} {IH T} {D AH Z AH N T} {EH N IY} {M AO R}.|p333
+wav22_silence_trimmed_wav/p333/p333_421_mic1.wav|{TH R IY} {M AH N TH S} {AO R} {S OW} {L EY T ER}, {DH EY} {AA R} {R IH T ER N IH NG}.|p333
+wav22_silence_trimmed_wav/p334/p334_419_mic1.wav|{DH IH S} {IH Z} {AH} {TH ER OW L IY} {HH AE N S AH M} {AE N D} {EH N JH OY AH B AH L} {P R AH D AH K SH AH N}.|p334
+wav22_silence_trimmed_wav/p334/p334_420_mic1.wav|{N OW} {EH V AH D AH N S} {DH AE T} {IH T} {W AA Z} {OW S AH M AH} {B IH N} {L EY D AH N}.|p334
+wav22_silence_trimmed_wav/p334/p334_421_mic1.wav|{AY} {TH IH NG K} {IH T} {IH Z} {T OW T AH L IY} {R AO NG}.|p334
+wav22_silence_trimmed_wav/p335/p335_418_mic1.wav|{L AO R D} {S EY N S B EH R IY} {IH Z} {N AA T} {AH} {N UW K AH M ER}.|p335
+wav22_silence_trimmed_wav/p335/p335_419_mic1.wav|{HH IY} {IH Z} {N AA T} {V EH R IY} {B IH G}, {IY DH ER}.|p335
+wav22_silence_trimmed_wav/p335/p335_420_mic1.wav|{S T IH L}, {DH AH} {IH K S P IH R IY AH N S} {W AA Z} {AH M EY Z IH NG}, {SH IY} {S EH Z}.|p335
+wav22_silence_trimmed_wav/p336/p336_419_mic1.wav|{W UH D} {HH IY} {EH V ER} {G OW} {B AE K} {T UW} {DH AH} {B IH G IH N IH NG}?|p336
+wav22_silence_trimmed_wav/p336/p336_420_mic1.wav|{W AH T} {IH Z} {G OW IH NG} {AA N}?|p336
+wav22_silence_trimmed_wav/p336/p336_421_mic1.wav|{L EH T} {DH AE T} {B IY} {DH EH R} {M AH M AO R IY AH L}.|p336
+wav22_silence_trimmed_wav/p339/p339_419_mic1.wav|{W IY} {SH UH D} {HH AE V} {B IH N} {R IH W AO R D IH D} {F AO R} {P R AH D UW S IH NG}.|p339
+wav22_silence_trimmed_wav/p339/p339_420_mic1.wav|{AY} {AE M} {AO L S OW} {D IH L AY T AH D} {F AO R} {AO L} {DH AH} {P L EY ER Z}.|p339
+wav22_silence_trimmed_wav/p339/p339_421_mic1.wav|{HH IY} {D IH D} {V EH R IY} {W EH L}, {B AH T} {D IH D AH N T} {W IH N}.|p339
+wav22_silence_trimmed_wav/p340/p340_419_mic1.wav|{AY L} {N EH V ER} {TH IH NG K} {AH V} {M AY S EH L F} {AE Z} {AH} {S T AA R}.|p340
+wav22_silence_trimmed_wav/p340/p340_420_mic1.wav|{IH T} {W AA Z} {W AH N} {N UW} {Y IH R}.|p340
+wav22_silence_trimmed_wav/p340/p340_421_mic1.wav|{W IY} {M EY D} {AH} {W ER L D} {R EH K ER D} {T AH G EH DH ER}.|p340
+wav22_silence_trimmed_wav/p341/p341_405_mic1.wav|{Y UW} {HH AE V} {T UW} {HH AE V} {S AH M} {HH OW P} {AE N D} {F EY TH}.|p341
+wav22_silence_trimmed_wav/p341/p341_406_mic1.wav|{DH EY} {HH OW L D} {AA N} {F AO R} {M EH N IY} {Y IH R Z}.|p341
+wav22_silence_trimmed_wav/p341/p341_407_mic1.wav|{HH AW EH V ER}, {DH AH} {R IY P AO R T} {W AA Z} {IH N K ER EH K T}.|p341
+wav22_silence_trimmed_wav/p343/p343_395_mic1.wav|{IY CH} {W AH N} {IH Z} {AE Z} {G UH D} {AE Z} {DH AH} {AH DH ER}.|p343
+wav22_silence_trimmed_wav/p343/p343_396_mic1.wav|{S AH B} {N AA T} {Y UW Z D}, {M AA R TH AH R}.|p343
+wav22_silence_trimmed_wav/p343/p343_397_mic1.wav|{AY} {HH AE V} {HH AA R D L IY} {EH N IY} {K AH M IH T M AH N T S}.|p343
+wav22_silence_trimmed_wav/p345/p345_395_mic1.wav|{AY} {W OW N T} {G OW} {B AE K} {T UW} {HH AA L AH N D}.|p345
+wav22_silence_trimmed_wav/p345/p345_396_mic1.wav|{DH EH R} {IH Z} {S T IH L} {AH} {L AO NG} {W EY} {T UW} {G OW}.|p345
+wav22_silence_trimmed_wav/p345/p345_397_mic1.wav|{AO L M OW S T} {OW V ER N AY T}, {HH IY} {F AW N D} {HH IH Z} {V OY S}.|p345
+wav22_silence_trimmed_wav/p347/p347_419_mic1.wav|{DH EY} {W AO N T IH D} {T UW} {SH OW} {W AH T} {DH EY} {K UH D} {D UW}.|p347
+wav22_silence_trimmed_wav/p347/p347_420_mic1.wav|{AY} {JH AH S T} {W AA N T} {T UW} {G EH T} {R IH D} {AH V} {IH T}.|p347
+wav22_silence_trimmed_wav/p347/p347_421_mic1.wav|{AH F IH SH AH L Z} {S EY} {DH AH} {S IH T IY} {M AH S T} {AH CH IY V} {DH IH S}.|p347
+wav22_silence_trimmed_wav/p351/p351_419_mic1.wav|{W AH T S} {IH T} {F AO R}, {AE F T ER} {AO L}?|p351
+wav22_silence_trimmed_wav/p351/p351_420_mic1.wav|{W IY} {W IH L} {B IY} {P L IY Z D} {T UW} {T AO K} {T UW} {DH EH M}.|p351
+wav22_silence_trimmed_wav/p351/p351_421_mic1.wav|{AH} {N AH M B ER} {AH V} {P IY P AH L} {K UH D} {N AA T} {S P IY K} {IH NG G L IH SH}.|p351
+wav22_silence_trimmed_wav/p360/p360_419_mic1.wav|{AY} {D OW N T} {TH IH NG K} {DH EY} {AA R} {T UW} {S IH R IY AH S}.|p360
+wav22_silence_trimmed_wav/p360/p360_420_mic1.wav|{T AY G ER} {IH Z} {DH AH} {IH K S EH P SH AH N}.|p360
+wav22_silence_trimmed_wav/p360/p360_421_mic1.wav|{DH EH R} {W AA Z} {N OW} {HH AE P IY} {EH N D IH NG}.|p360
+wav22_silence_trimmed_wav/p361/p361_419_mic1.wav|{EH V R IY W AH N} {IH N} {B R IH T AH N} {IH Z} {P R AW D} {AH V} {DH IH S} {T IY M}.|p361
+wav22_silence_trimmed_wav/p361/p361_420_mic1.wav|{W IY} {S ER T AH N L IY} {D UW} {N AA T} {IH N T EH N D} {T UW} {D IH S B AE N D}.|p361
+wav22_silence_trimmed_wav/p361/p361_421_mic1.wav|{M AY} {L AY F} {IH Z} {G OW IH NG} {T UW} {G OW} {AA N}.|p361
+wav22_silence_trimmed_wav/p362/p362_397_mic1.wav|{L OW K EY T} {IH N} {S K AA T L AH N D} {AO L S OW} {R AH F Y UW Z D} {T UW} {K AA M EH N T}.|p362
+wav22_silence_trimmed_wav/p362/p362_399_mic1.wav|{DH AE T} {IH Z} {W AY} {HH IY} {IH Z} {S OW} {S P EH SH AH L}.|p362
+wav22_silence_trimmed_wav/p362/p362_406_mic1.wav|{HH IY} {AE D IH D} {DH AE T} {HH IY} {F EH L T} {AH N D ER M AY N D}.|p362
+wav22_silence_trimmed_wav/p363/p363_418_mic1.wav|{OW V ER AO L}, {IH T} {HH AE Z} {S ER T AH N L IY} {W ER K T} {AW T}.|p363
+wav22_silence_trimmed_wav/p363/p363_419_mic1.wav|{DH IH S} {IH Z} {AE K CH UW AH L IY} {T R UW}.|p363
+wav22_silence_trimmed_wav/p363/p363_420_mic1.wav|{B OW TH} {W ER} {R IH D UW S T} {T UW} {R AH B AH L}.|p363
+wav22_silence_trimmed_wav/p364/p364_303_mic1.wav|{IH T} {W AA Z} {DH EH N} {DH AE T} {R EY N JH ER Z} {S K AO R D}.|p364
+wav22_silence_trimmed_wav/p364/p364_304_mic1.wav|{DH IH S} {W AA Z} {R IH P IY T IH D} {DH AH} {S EH K AH N D} {T AY M}.|p364
+wav22_silence_trimmed_wav/p364/p364_305_mic1.wav|{AY} {CH OW Z} {DH AH} {F AO R M ER}.|p364
+wav22_silence_trimmed_wav/p374/p374_419_mic1.wav|{DH EY} {HH AE V} {N AA T} {B IH N} {N EY M D}.|p374
+wav22_silence_trimmed_wav/p374/p374_420_mic1.wav|{IH T} {F IY L Z} {L AY K} {T UW} {M AH CH}.|p374
+wav22_silence_trimmed_wav/p374/p374_421_mic1.wav|{DH IH S} {IH Z} {DH AH} {L AE S T} {TH IH NG} {W IY} {EH V ER} {IH K S P EH K T AH D}.|p374
+wav22_silence_trimmed_wav/p376/p376_419_mic1.wav|{AY V} {N EH V ER} {D AH N} {DH AE T} {B IH F AO R} {IH N} {M AY} {L AY F}.|p376
+wav22_silence_trimmed_wav/p376/p376_420_mic1.wav|{AY} {K AE N T} {S T AA P} {P IY P AH L} {TH IH NG K IH NG}.|p376
+wav22_silence_trimmed_wav/p376/p376_421_mic1.wav|{DH AE T} {W IH L} {B IY} {B EH S T} {F AO R} {HH IH M}.|p376
+wav22_silence_trimmed_wav/s5/s5_395_mic1.wav|{DH AE T} {HH AE D} {HH AE P AH N D} {L AO NG} {B IH F AO R} {HH AE F}-{T AY M} {Y EH S T ER D EY}.|s5
+wav22_silence_trimmed_wav/s5/s5_396_mic1.wav|{M EH N IY} {F AA R M ER Z} {K AE N AA T} {IY V IH N} {AH G R IY} {W IH DH IH N} {DH EH R} {OW N} {F AE M AH L IY Z}.|s5
+wav22_silence_trimmed_wav/s5/s5_397_mic1.wav|{N UW} {Y AO R K} {P R AH V AY D AH D} {L IH T AH L} {HH EH L P} {F AO R} {DH AH} {L AH N D AH N} {M AA R K AH T}.|s5
