@@ -5,7 +5,7 @@
 
 **Training** Code will be available soon. Model and etc are uploaded.
 
-**Demo uploaded at **[Hugging Face Space](https://huggingface.co/spaces/anonymous-pits/pits)🤗
+**Demo and Checkpoint are uploaded at **[Hugging Face Space](https://huggingface.co/spaces/anonymous-pits/pits)🤗
 
 Audio samples are uploaded at [github.io](https://anonymous-pits.github.io/pits/).
 
