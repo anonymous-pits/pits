@@ -7,6 +7,6 @@ numpy==1.20.3
 scipy==1.6.3
 Unidecode==1.1.1
 omegaconf==2.1.0
-aliass_free_torch==0.0.6
+alias_free_torch==0.0.6
 phaseaug==0.0.2
 gradio==3.20.1
