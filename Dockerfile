@@ -23,3 +23,4 @@ RUN cd /root/pits && \
     cd /root/pits/monotonic_align && \
     python3 setup.py build_ext --inplace
 WORKDIR /root/pits
+EXPOSE 6006
