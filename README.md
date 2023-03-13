@@ -15,6 +15,14 @@ Preprint version contains some errors! Please wait for the update!
 
 ![overall](asset/overall.png) 
 
+README IS WIP...
+
+## Training
+WIP...
+```python 
+train.py -c configs/config_en.yaml -m {MODEL_NAME} {-i:if you change yingram setup or etc}
+```
+
 ## References
 - Official VITS Implementation: https://github.com/jaywalnut310/vits
 - NANSY Implementation from dhchoi99: https://github.com/dhchoi99/NANSY
