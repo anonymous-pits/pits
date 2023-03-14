@@ -9,4 +9,3 @@ Unidecode==1.1.1
 omegaconf==2.1.0
 alias_free_torch==0.0.6
 phaseaug==0.0.2
-gradio==3.20.1

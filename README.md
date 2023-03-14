@@ -17,11 +17,33 @@ Preprint version contains some errors! Please wait for the update!
 
 README IS WIP...
 
-## Training
-WIP...
-```python 
-train.py -c configs/config_en.yaml -m {MODEL_NAME} {-i:if you change yingram setup or etc}
+## Requiremetns
+- [Pytorch>=1.7.0](https://pytorch.org/) for [alias-free-torch](https://github.com/junjun3518/alias-free-torch) and [phaseaug](https://github.com/mindslab-ai/phaseaug)
+- The requirements are highlighted in [requirements.txt](./requirements.txt).
+- We also provide docker setup [Dockerfile](./Dockerfile).
 ```
+docker build -t=pits .
+```
+
+### For VCTK
+- Download VCTK (version 0.92) at [link](https://datashare.ed.ac.uk/handle/10283/3443)
+- Resample files to `22050 Hz`, `16 bit`, `.wav` format.
+
+### For custom dataset
+- Resample files to `22050 Hz`, `16 bit`, `.wav` format.
+- Check [configs/config\_en.yaml](configs/config_en.yaml) and change data section (e.g. path, files, speakers).
+- To utilize a different phoneme set, you will need to modify the Python files located in the `text` folder.
+
+## Training
+- Run `train.py`, check [train.py](train.py) for detailed options.
+```python 
+python train.py -c configs/config_en.yaml -m {MODEL_NAME} {-i:if you change yingram setup or etc}
+```
+
+## Demo
+**Demo and Checkpoint are uploaded at** [Hugging Face Space](https://huggingface.co/spaces/anonymous-pits/pits)🤗
+
+We are currently working in progress to make dockerfile for local demo. Please wait for it.
 
 ## References
 - Official VITS Implementation: https://github.com/jaywalnut310/vits
