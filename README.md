@@ -17,7 +17,8 @@ Preprint version contains some errors! Please wait for the update!
 
 README IS WIP...
 
-## Requiremetns
+## Requirements
+- Python >=3.7,<3.10
 - [Pytorch>=1.7.0](https://pytorch.org/) for [alias-free-torch](https://github.com/junjun3518/alias-free-torch) and [phaseaug](https://github.com/mindslab-ai/phaseaug)
 - The requirements are highlighted in [requirements.txt](./requirements.txt).
 - We also provide docker setup [Dockerfile](./Dockerfile).
