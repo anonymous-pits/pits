@@ -9,13 +9,14 @@
 
 Audio samples are uploaded at [github.io](https://anonymous-pits.github.io/pits/).
 
-For the pitch-shifted Inference, we unify to use the notation in scope-shift, s, instead of pitch-shift.
+For the pitch-shifted Inference, we unify to use the notation in scope-shift, *s*, instead of pitch-shift.
 
-Preprint version contains some errors! Please wait for the update!
+Voice conversion samples are uploaded.
+
+**Accepted to ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling**
 
 ![overall](asset/overall.png) 
 
-README IS WIP...
 
 ## Requiremetns
 - [Pytorch>=1.7.0](https://pytorch.org/) for [alias-free-torch](https://github.com/junjun3518/alias-free-torch) and [phaseaug](https://github.com/mindslab-ai/phaseaug)
@@ -30,9 +31,12 @@ docker build -t=pits .
 - Resample files to `22050 Hz`, `16 bit`, `.wav` format.
 
 ### For custom dataset
-- Resample files to `22050 Hz`, `16 bit`, `.wav` format.
+- Do not train this model with **single speaker dataset**, due to our pitch-shift training applying GAN, it seems that single speaker dataset cannot trained with it. Many issues are reporting training failure for small or single speaker dataset.
+- We strongly encourage to use pretrained models with speaker embedding size editing. It requires long training time (over 3 weaks with 4 V100 GPUs), so you should apply it for efficient traning.
+- Resample files to `22050 Hz`, `16 bit`, `.wav` format. Some issues are reporting training failures for other sampling rate, we do not ensure for other sampling rates.
 - Check [configs/config\_en.yaml](configs/config_en.yaml) and change data section (e.g. path, files, speakers).
 - To utilize a different phoneme set, you will need to modify the Python files located in the `text` folder.
+- To train other languages than English, please refer other language variants of VITS. There are many references in github.
 
 ## Training
 - Run `train.py`, check [train.py](train.py) for detailed options.
