@@ -19,7 +19,7 @@ Voice conversion samples are uploaded.
 
 
 ## Requiremetns
-- [Pytorch>=1.7.0](https://pytorch.org/) for [alias-free-torch](https://github.com/junjun3518/alias-free-torch) and [phaseaug](https://github.com/mindslab-ai/phaseaug)
+- [2.0>Pytorch>=1.7.0](https://pytorch.org/) for [alias-free-torch](https://github.com/junjun3518/alias-free-torch) and [phaseaug](https://github.com/mindslab-ai/phaseaug). Since our codes are based on lower version of torch, do not use 2.x.
 - The requirements are highlighted in [requirements.txt](./requirements.txt).
 - We also provide docker setup [Dockerfile](./Dockerfile).
 ```
