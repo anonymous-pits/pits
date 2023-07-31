@@ -42,7 +42,7 @@ class GradioApp:
             text_norm = commons.intersperse(text_norm, 0)
             tone = commons.intersperse(tone, 0)
         else:
-            text_norm = phones
+            text_norm = [_symbol_to_id[symbol] for symbol in phones]
         text_norm = torch.LongTensor(text_norm)
         tone = torch.LongTensor(tone)
         return text_norm, tone, phones
